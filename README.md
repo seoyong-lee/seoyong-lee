@@ -1,3 +1,3 @@
-- 👋 Hi, I’m seoyong-lee
-- 👀 I’m interested in FE
+- 👋 Hi, I’m Seoyong-Lee
+- 👀 I’m interested in FE, Design, UX/UI
 - 🌱 I’m currently learning React, RN
