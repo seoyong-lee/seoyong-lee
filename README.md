@@ -1,0 +1,3 @@
+- 👋 Hi, I’m seoyong-lee
+- 👀 I’m interested in FE
+- 🌱 I’m currently learning React, RN
