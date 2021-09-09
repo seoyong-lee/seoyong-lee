@@ -1,14 +1,14 @@
 <div align=center>
   
   ### 프론트엔드 개발자 이서용입니다
+  
   <a href="https://velog.io/@sy3783" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <a href="https://bit.ly/3DUC7Ci" target="_blank"><img src="https://img.shields.io/badge/Resume-4381E4?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="mailto:sy3783@gmail.com?subject=서용님 반갑습니다!" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <br/> 
-  <br/>
   
   ### :fire: Stack :fire:
-  <div>
+
 <!--     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=React&logoColor=white"/></a>
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
     <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=React&logoColor=white"/></a>
@@ -72,9 +72,7 @@
 <!--     <a href="https://vuejs.org/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
     </a>  -->
-  </p>
-  </div>
-  <br/>
+  </p>  <br/>
 
   <div align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=seoyong-lee&show_icons=true&&hide=stars,contribs&custom_title=GitHub Stats&title_color=69A6F8&text_color=CAD1D8&bg_color=0E1116&border_color=31363C&icon_color=CAD1D8" />
