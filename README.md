@@ -10,9 +10,9 @@
   
   ### :fire: Stack :fire:
   <div>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=React&logoColor=white"/>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=React&logoColor=white"/></a>
+    <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+    <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=React&logoColor=white"/></a>
   </div>
   <br/>
   <br/>
