@@ -79,9 +79,10 @@
   <div align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=seoyong-lee&show_icons=true&&hide=stars,contribs&custom_title=GitHub Stats&title_color=69A6F8&text_color=CAD1D8&bg_color=0E1116&border_color=31363C&icon_color=CAD1D8" />
   </div>
-  <div align=center>
+<!--   <div align=center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4&card_width=445&title_color=69A6F8&text_color=CAD1D8&border_color=31363C&bg_color=0E1116" />
-  </div><br/>
+  </div> -->
+  <br/>
   
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyong-lee&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a> -->
 </div>
