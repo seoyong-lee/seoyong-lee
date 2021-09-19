@@ -10,11 +10,6 @@
   
   ### :fire: Stack :fire:
 
-<!--     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=React&logoColor=white"/></a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-    <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=React&logoColor=white"/></a>
-     -->
-    
   <p align="center"> 
     <a href="https://www.w3.org/html/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
