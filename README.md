@@ -1,6 +1,6 @@
 <div align=center>
   
-  ### 프론트엔드 개발자 이서용입니다
+  ### FE Developer
 <!--   
   <a href="https://velog.io/@seoyong-lee" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <a href="https://bit.ly/3DUC7Ci" target="_blank"><img src="https://img.shields.io/badge/Resume-4381E4?style=flat-square&logo=Notion&logoColor=white"/></a>
