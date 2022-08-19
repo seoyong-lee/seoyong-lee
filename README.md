@@ -22,7 +22,6 @@
   </p>  <br/>
 
   <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=seoyong-lee&show_icons=true&&hide=stars,contribs&custom_title=GitHub Stats&title_color=69A6F8&text_color=CAD1D8&bg_color=0E1116&border_color=31363C&icon_color=CAD1D8" />
   </div>
 <!--   <div align=center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4&card_width=445&title_color=69A6F8&text_color=CAD1D8&border_color=31363C&bg_color=0E1116" />
