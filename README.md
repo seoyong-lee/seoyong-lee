@@ -16,9 +16,9 @@
     <a href="https://reactjs.org/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a> 
-    <a href="https://emotion.sh/docs/introduction" target="_blank"> 
+<!--     <a href="https://emotion.sh/docs/introduction" target="_blank"> 
       <img src="https://raw.githubusercontent.com/emotion-js/emotion/main/emotion.png" alt="emotion-js" width="40" height="40"/> 
-    </a>
+    </a> -->
   </p>  <br/>
 
   <div align=center>
